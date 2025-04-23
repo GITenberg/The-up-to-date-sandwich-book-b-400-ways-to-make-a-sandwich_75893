@@ -1,0 +1,28 @@
+_repo: The-up-to-date-sandwich-book-b-400-ways-to-make-a-sandwich_75893
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fuller, Eva Greene
+    gutenberg_agent_id: '58201'
+    url: http://www.gutenberg.org/2009/agents/58201
+description: ''
+gutenberg_issued: '2025-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75893'
+language: en
+pgterms:marc904: https://archive.org/details/uptodatesandwich00full
+pgterms:marc905: 20240605093532fuller
+pgterms:marc906: '1909'
+pgterms:marc907: us
+production_note: Hannah Wilson, A Marshall, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aChicago :$bA. C. McClurg & Co., $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The up-to-date sandwich book : $b 400 ways to make a sandwich'
+url: http://www.gutenberg.org/ebooks/75893
